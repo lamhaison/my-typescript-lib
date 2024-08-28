@@ -1,6 +1,6 @@
 {
   "name": "lhs-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,6 +12,5 @@
     "typescript": "^4.0.0"
   },
   "dependencies": {
-    "lhs-lib": "^1.0.0"
   }
 }
